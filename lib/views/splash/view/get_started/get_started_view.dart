@@ -2,9 +2,9 @@ import 'package:flutter/material.dart';
 import 'package:focus_flow/utils/style/color.dart';
 import 'package:focus_flow/utils/style/text_style.dart';
 import 'package:get/get.dart';
-import '../modules/home/view/home_view.dart';
-import '../widgets/custom_appbar.dart';
 import 'package:flutter_svg/flutter_svg.dart';
+import '../../../../widgets/custom_appbar.dart';
+import '../../../home/view/home_view.dart';
 
 class GetStartedView extends StatefulWidget {
   const GetStartedView({super.key});

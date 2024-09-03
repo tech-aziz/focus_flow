@@ -1,6 +1,6 @@
 import 'package:flutter/material.dart';
 import 'package:flutter/services.dart';
-import 'package:focus_flow/splash/view/splash_view.dart';
+import 'package:focus_flow/views/splash/view/splash_view.dart';
 import 'package:get/get_navigation/src/root/get_material_app.dart';
 
 void main() {
